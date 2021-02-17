@@ -18,7 +18,7 @@ const MyWork = () => {
             <Project>
                 <h2>Python & Selenium</h2>
                 <div className="line"></div>
-                <Link to="/work/python-selenium">
+                <Link to="/work/python-selenium">  
                 <img src={pythonSelenium} alt="pythonSelenium"/></Link>
             </Project>
             <Project>
